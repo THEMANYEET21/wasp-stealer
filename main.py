@@ -20,7 +20,7 @@ import subprocess
 #
 
 
-hook = ""
+hook = "https://discord.github.com"
 DETECTED = False
 
 
